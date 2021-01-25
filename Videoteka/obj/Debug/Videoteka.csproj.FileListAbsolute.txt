@@ -1,0 +1,24 @@
+C:\Users\Korisnik\source\repos\Videoteka\Videoteka\bin\Debug\Videoteka.exe.config
+C:\Users\Korisnik\source\repos\Videoteka\Videoteka\bin\Debug\Videoteka.exe
+C:\Users\Korisnik\source\repos\Videoteka\Videoteka\bin\Debug\Videoteka.pdb
+C:\Users\Korisnik\source\repos\Videoteka\Videoteka\obj\Debug\Videoteka.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Videoteka\Videoteka\obj\Debug\Videoteka.Form1.resources
+C:\Users\Korisnik\source\repos\Videoteka\Videoteka\obj\Debug\Videoteka.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Videoteka\Videoteka\obj\Debug\Videoteka.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Videoteka\Videoteka\obj\Debug\Videoteka.exe
+C:\Users\Korisnik\source\repos\Videoteka\Videoteka\obj\Debug\Videoteka.pdb
+C:\Users\Korisnik\source\repos\Videoteka\Videoteka\bin\Debug\Resources\Lozinke.txt
+C:\Users\Korisnik\source\repos\Videoteka\Videoteka\bin\Debug\Resources\KorisničkoIme.txt
+C:\Users\PC 6\Downloads\Videoteka\Videoteka\bin\Debug\Resources\Lozinke.txt
+C:\Users\PC 6\Downloads\Videoteka\Videoteka\bin\Debug\Resources\KorisničkoIme.txt
+C:\Users\PC 6\Downloads\Videoteka\Videoteka\bin\Debug\Videoteka.exe.config
+C:\Users\PC 6\Downloads\Videoteka\Videoteka\bin\Debug\Videoteka.exe
+C:\Users\PC 6\Downloads\Videoteka\Videoteka\bin\Debug\Videoteka.pdb
+C:\Users\PC 6\Downloads\Videoteka\Videoteka\obj\Debug\Videoteka.csprojAssemblyReference.cache
+C:\Users\PC 6\Downloads\Videoteka\Videoteka\obj\Debug\Videoteka.Form1.resources
+C:\Users\PC 6\Downloads\Videoteka\Videoteka\obj\Debug\Videoteka.Properties.Resources.resources
+C:\Users\PC 6\Downloads\Videoteka\Videoteka\obj\Debug\Videoteka.csproj.GenerateResource.cache
+C:\Users\PC 6\Downloads\Videoteka\Videoteka\obj\Debug\Videoteka.csproj.CoreCompileInputs.cache
+C:\Users\PC 6\Downloads\Videoteka\Videoteka\obj\Debug\Videoteka.exe
+C:\Users\PC 6\Downloads\Videoteka\Videoteka\obj\Debug\Videoteka.pdb
+C:\Users\PC 6\Downloads\Videoteka\Videoteka\obj\Debug\Videoteka.Form2.resources
